@@ -27,7 +27,7 @@ export default function HeroSection() {
             fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
             lineHeight={"110%"}
           >
-            Make money from <br />
+            LOVE <br />
             <Text as={"span"} color={"green.400"}>
               your audience
             </Text>
